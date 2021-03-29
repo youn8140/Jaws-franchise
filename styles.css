@@ -1,0 +1,84 @@
+body {
+	font-family: Roboto, sans-serif;
+}
+
+.section--page {
+	min-height: 55vh;
+	padding: 1rem 1rem 2rem;
+}
+
+.section--page:nth-of-type(odd) {
+background: #d5d5d5;
+}
+
+.nav {
+	padding: 1rem
+}
+
+.nav__item {
+	list-style: none;
+	display: block;
+}
+
+.nav__link {
+	padding: 1rem;
+	display: block;
+}
+
+.nav__link:hover {
+	background:#195b73;
+	color: white;
+}
+
+.newlink:hover {
+	background: white;
+	color: black;
+}
+
+.caribbean:hover {
+	font-family: Futura;
+	color: white;
+}
+
+header {
+  font-family: Futura;
+  color:#195b73;
+  padding: 1rem 1rem 1rem;
+}
+
+h2 {
+	font-family:Futura;
+	color:#195b73;
+}
+
+.relative {
+	position: fixed;
+	right: 0;
+	bottom: 0;
+}
+
+.float-left {
+  float: left;
+  margin-right: 1rem;
+}
+
+.float-right {
+  float: right;
+  margin-left: 1rem;
+}
+
+@media (min-width: 600px) {
+	body {
+background: #9edacb;
+		color: black;
+	}
+}
+
+@media (min-width: 40rem) {
+    .nav__item {
+        display: inline-block;
+    }
+    .nav__link {
+        display: inline;
+    }
+}
