@@ -2,17 +2,8 @@ body {
 	font-family: Roboto, sans-serif;
 }
 
-.section--page {
-	min-height: 55vh;
-	padding: 1rem 1rem 2rem;
-}
-
-.section--page:nth-of-type(odd) {
-background: #d5d5d5;
-}
-
 .nav {
-	padding: 1rem
+	padding: 2rem
 }
 
 .nav__item {
@@ -21,7 +12,7 @@ background: #d5d5d5;
 }
 
 .nav__link {
-	padding: 1rem;
+	padding: 2rem;
 	display: block;
 }
 
@@ -35,10 +26,6 @@ background: #d5d5d5;
 	color: black;
 }
 
-.caribbean:hover {
-	font-family: Futura;
-	color: white;
-}
 
 header {
   font-family: Futura;
