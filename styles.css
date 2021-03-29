@@ -33,25 +33,10 @@ header {
   padding: 1rem 1rem 1rem;
 }
 
+
 h2 {
 	font-family:Futura;
-	color:#195b73;
-}
-
-.relative {
-	position: fixed;
-	right: 0;
-	bottom: 0;
-}
-
-.float-left {
-  float: left;
-  margin-right: 1rem;
-}
-
-.float-right {
-  float: right;
-  margin-left: 1rem;
+	color: white;
 }
 
 @media (min-width: 600px) {
