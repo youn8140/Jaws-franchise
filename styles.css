@@ -12,6 +12,8 @@ header {
   font-family: Futura;
   color:white;
   padding: 1rem 1rem 1rem;
+  font-size: 4rem;
+  text-align: center;
 }
 
 
@@ -19,6 +21,7 @@ h2 {
 	font-family:Futura;
 	color: white;
 	padding: 1rem 1rem 1rem;
+	font-size: 2rem;
 }
 
 p {
