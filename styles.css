@@ -2,25 +2,6 @@ body {
 	font-family: Roboto, sans-serif;
 }
 
-.nav {
-	padding: 1rem
-}
-
-.nav__item {
-	list-style: none;
-	display: block;
-}
-
-.nav__link {
-	padding: 1rem;
-	display: block;
-}
-
-.nav__link:hover {
-	background:#195b73;
-	color: white;
-}
-
 .newlink:hover {
 	background: white;
 	color: black;
