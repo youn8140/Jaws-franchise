@@ -18,13 +18,13 @@ header {
 h2 {
 	font-family:Futura;
 	color: white;
-	padding: 1rem 1rem 1rem;
+	padding: 1rem;
 }
 
 p {
 	font-family:sans-serif;
 	color: black;
-	padding: 0.5rem;
+	padding: 1rem;
 }
 
 @media (min-width: 600px) {
